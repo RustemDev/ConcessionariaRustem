@@ -1,0 +1,13 @@
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\bin\Debug\netcoreapp3.1\ConcessionariaRustem.exe
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\bin\Debug\netcoreapp3.1\ConcessionariaRustem.deps.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\bin\Debug\netcoreapp3.1\ConcessionariaRustem.runtimeconfig.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\bin\Debug\netcoreapp3.1\ConcessionariaRustem.runtimeconfig.dev.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\bin\Debug\netcoreapp3.1\ConcessionariaRustem.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\bin\Debug\netcoreapp3.1\ConcessionariaRustem.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\obj\Debug\netcoreapp3.1\ConcessionariaRustem.csprojAssemblyReference.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\obj\Debug\netcoreapp3.1\ConcessionariaRustem.AssemblyInfoInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\obj\Debug\netcoreapp3.1\ConcessionariaRustem.AssemblyInfo.cs
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\obj\Debug\netcoreapp3.1\ConcessionariaRustem.csproj.CoreCompileInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\obj\Debug\netcoreapp3.1\ConcessionariaRustem.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\obj\Debug\netcoreapp3.1\ConcessionariaRustem.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\ConcessionariaRustem\ConcessionariaRustem\obj\Debug\netcoreapp3.1\ConcessionariaRustem.genruntimeconfig.cache
